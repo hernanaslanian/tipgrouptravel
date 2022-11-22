@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* ----- Header ----- */
+
+header {
+  background-color: cadetblue;
+  padding: 15px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header ul {
+  display: flex;
+  gap: 20px;
+}
+
+/* ---- Portada ---- */
+
+.portada-index {
+  height: 92vh;
+
+  background-image: url(../img/portada-web.jpg);
+  background-position: center;
+  background-size: cover;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.portada-texto {
+  background-color: rgba(95, 158, 160, 0.708);
+  font-size: 1.8rem;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+/* ----- Productos ----- */
+
+.productos-titulo {
+  text-align: center;
+  background-color: cadetblue;
+  font-size: 1.6rem;
+  padding: 15px;
+}
+
+/* --- Tarjeta --- */
+
+.contenedor-productos {
+  padding: 15px;
+}
+
+.tarjeta {
+  background-color: darkcyan;
+  border: 2px solid black;
+  width: 250px;
+  height: 350px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tarjeta img {
+  width: 100%;
+}
+
+.tarjeta h3 {
+  font-size: 1.8rem;
+}
+
+.tarjeta span {
+  font-size: 1.6rem;
+}
+
+.btn {
+  border: 2px solid black;
+  padding: 8px 10px;
+  border-radius: 20px;
+}
