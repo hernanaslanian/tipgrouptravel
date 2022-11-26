@@ -15,31 +15,7 @@ a {
 }
 
 /*header*/
-h1 {
-    color: blue;
-    margin-left: 50px;
-    font-size: 4rem;
 
-}
-
-header {
-    background-color: rgba(49, 91, 180, 0.26);
-    height: 15vh;
-
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-header ul {
-    display: flex;
-    gap: 20px;
-}
-
-header nav {
-    font-size: 1.5rem;
-    margin-right: 50px;
-}
 
 /*main*/
 .portada-index {
