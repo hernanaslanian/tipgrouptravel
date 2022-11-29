@@ -18,7 +18,9 @@ a {
 
 
 /*main*/
-
+h2{
+    text-decoration: underline;
+}
 
 /*primera seccion*/
 .portada-index{
