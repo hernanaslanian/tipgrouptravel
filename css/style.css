@@ -18,111 +18,12 @@ a {
 
 
 /*main*/
-.portada-index {
-    background-image: url(../img/peritomoreno.jpg);
-    height: 92vh;
-    background-position: center;
-    background-size: cover;
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-.portada-texto {
-    background-color: rgba(49, 90, 180, 0);
-    font-size: 5rem;
-    padding: 15px;
-
-}
-
-.portada-parrafo {
-    background-color: rgba(49, 90, 180, 0);
-    font-size: 2.5rem;
-    padding: 15px;
-
-    display: flex;
-    justify-content: bottom;
-    align-items: bottom;
-    flex-direction: column;
-}
 
 /*primera seccion*/
-.titulo-secundario {
-    background-color: rgba(49, 90, 180, 0.288);
-    padding: 15px;
-    display: flex;
-
-
-}
-
-
-
-/*segunda seccion*/
-.chile-espectacular {
-    background-color: rgba(49, 90, 180, 0.288);
-    padding: 50px;
-    display: flex;
-
+.portada-index{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
 }
 
 /*footer*/
-footer {
-    background-color: rgba(49, 91, 180, 0.26);
-    height: 15vh;
-
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.logofooter {
-    color: blue;
-    margin-right: auto;
-    font-size: 2.5rem;
-
-}
-
-.contacto-chile {
-    gap: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-right: auto;
-}
-
-.contacto-argentina {
-    gap: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-right: auto;
-}
-
-/*seccion argentina*/
-
-.seccion-argentina {
-    height: 70vh;
-    padding: 50px;
-
-
-}
-
-.seccion-chile {
-    height: 70vh;
-    padding: 50px;
-
-
-}
-
-.contacto {
-    height: 70vh;
-    padding: 50px;
-}
-
-.nosotros-texto {
-    height: 70vh;
-    padding: 50px;
-    font-size: 3.5rem;
-}
