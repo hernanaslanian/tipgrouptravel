@@ -1,0 +1,12 @@
+@import "./utils/variables";
+@import "./utils/mixins";
+
+@import "./base/base";
+
+@import "./components/navbar";
+
+@import "./pages/argentina";
+@import "./pages/chile";
+@import "./pages/contacto";
+@import "./pages/index";
+@import "./pages/nosotros";

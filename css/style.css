@@ -1,22 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-ul,
-ol {
-    list-style: none;
-
-}
-
-a {
-    text-decoration: none;
-}
-
-/*header*/
-
-
 /*main*/
 h2{
     text-decoration: underline;
@@ -28,7 +9,3 @@ h2{
     padding-bottom: 5rem;
 }
 
-
-
-
-/*footer*/

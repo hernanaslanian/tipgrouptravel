@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,
+ol {
+    list-style: none;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+/*header*/
+
+
+/*main*/
+h2{
+    text-decoration: underline;
+}
+
+/*primera seccion*/
+.portada-index{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+
+
+
+/*footer*/
