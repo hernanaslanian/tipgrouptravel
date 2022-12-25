@@ -15,6 +15,18 @@ a {
 
 body {
   background-color: ebf4f5;
+  font-family:fantasy
 }
 
+.argentina-te-espera{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.chile-espectacular{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.formulario-contacto{
+  font-family:fantasy
+}
 /*# sourceMappingURL=style.css.map */
+
